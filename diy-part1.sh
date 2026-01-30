@@ -44,6 +44,7 @@ git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 # git clone https://github.com/sbwml/luci-app-alist package/alist
 merge_package https://github.com/vernesong/OpenClash OpenClash/luci-app-openclash
 merge_package https://github.com/kiddin9/kwrt-packages kwrt-packages/luci-app-ddns
+merge_package https://github.com/kiddin9/kwrt-packages kwrt-packages/luci-app-mwan3helper
 merge_package https://github.com/kenzok8/openwrt-packages openwrt-packages/luci-app-adguardhome
 merge_package https://github.com/kenzok8/openwrt-packages openwrt-packages/adguardhome
 # merge_package https://github.com/kiddin9/kwrt-packages kwrt-packages/wrtbwmon
